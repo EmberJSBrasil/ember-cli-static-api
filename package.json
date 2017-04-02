@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-api-stub-static",
+  "name": "ember-cli-static-api",
   "main": "index.js",
   "keywords": [
     "ember-addon"
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kimagure/ember-cli-api-stub-static.git"
+    "url": "git://github.com/EmberJSBrasil/ember-cli-static-api.git"
   },
   "bugs": {
-    "url": "https://github.com/kimagure/ember-cli-api-stub-static/issues"
+    "url": "https://github.com/EmberJSBrasil/ember-cli-static-api/issues"
   },
-  "homepage": "https://github.com/kimagure/ember-cli-api-stub-static"
+  "homepage": "https://github.com/EmberJSBrasil/ember-cli-static-api"
 }
